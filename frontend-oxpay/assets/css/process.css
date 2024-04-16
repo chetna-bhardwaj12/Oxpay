@@ -1,0 +1,13 @@
+/* ----------------------------process--css------------------------ */
+
+.process_button input {
+  width: 96%;
+  height: 60px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid #dbdbdb;
+  outline: none;
+}
+.input_1::placeholder {
+  color: #383838;
+}

@@ -1,0 +1,16 @@
+.transaction_failed p {
+  line-height: 0px;
+}
+.failed_remark {
+  border: 1px solid #ff0000;
+  border-radius: 8px;
+}
+.pending_remark {
+  border: 1px solid #f29339;
+  border-radius: 8px;
+}
+
+.successful_remark {
+  border: 1px solid #65c055;
+  border-radius: 8px;
+}

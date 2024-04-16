@@ -1,0 +1,13 @@
+/*------------------------------thankyou--------------------------------*/
+.thankyou_home {
+  background: url(../image/background_img2.png);
+  height: 100vh;
+  color: #505050;
+  padding-top: 200px;
+}
+
+.successfull {
+  width: 350px;
+  height: 381px;
+  margin-top: 12.5625rem;
+}

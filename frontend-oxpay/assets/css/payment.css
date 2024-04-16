@@ -1,0 +1,18 @@
+/*-----------------------------payment---------------------------*/
+.payment {
+  background: #f8f5f5;
+  height: 100vh;
+  color: #505050;
+}
+
+.profile {
+  height: 381px;
+  margin-top: 12.5625rem;
+}
+.profile a {
+  color: #505050;
+}
+.profile a:hover {
+  text-decoration: none;
+  color: #505050;
+}

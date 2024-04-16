@@ -1,0 +1,17 @@
+.notification_input_box {
+  width: 99%;
+  height: 60px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid #dbdbdb;
+  outline: none;
+  margin-left: 0.3%;
+}
+.input_1::placeholder {
+  color: #565656;
+}
+
+.notification_input_box input {
+  border: none;
+  outline: none;
+}

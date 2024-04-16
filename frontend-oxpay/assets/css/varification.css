@@ -1,0 +1,13 @@
+/* ----------------------------varification-3-css------------------------ */
+
+.otp_button input {
+  width: 50px;
+  height: 60px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid #dbdbdb;
+  outline: none;
+}
+.input_2::placeholder {
+  color: #383838;
+}

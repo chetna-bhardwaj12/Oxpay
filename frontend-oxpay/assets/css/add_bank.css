@@ -1,0 +1,13 @@
+.bank_info {
+  margin-left: -10%;
+}
+.payment_history p {
+  line-height: 0px;
+}
+.add_bank_button {
+  position: relative;
+}
+/* .add_bank_button img{
+    position: fixed;
+    bottom: ;
+} */
